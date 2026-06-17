@@ -1,3 +1,7 @@
+![](./diagrama-classes.png)
+
+
+
 # Descrição da Arquitetura:
 O PIE foi projetado utilizando uma arquitetura em camadas, organizada para separar a interface gráfica, a lógica de negócio e os serviços externos utilizados pela extensão. Camada de Apresentação (Front-end)
 A camada de apresentação é construída utilizando React, juntamente com HTML5 e CSS3, sendo responsável pela interface exibida na página inicial do navegador. Ela é composta pelos principais módulos do sistema: 
